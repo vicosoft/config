@@ -4,3 +4,4 @@
 ## Contents
 
 `.gitignore` - The ignore file
+`.gitconfig` - Global Git configuration 
